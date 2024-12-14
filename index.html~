@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>MakaylaHullDotCom</title>
+		<meta content="Makayla Hull Dot Com" property="og:title" />
+		<meta content="I bet you think it's weird that this site has embed support huh" property="og:description" />
+		<meta content="https://makaylahull.com" property="og:url" />
+		<meta content="https://makaylahull.com/garffeld.png" property="og:image" />
+		<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1 id="zodiac">i am not the <span class="rainbow">zodiac <span onclick="alert('Killer? I hardly know her!')">killer</span></span></h1>
+
+		<img id=garf src=garf.gif onclick="alert('Please don\'t touch the garfield :(')" ></img>
+
+		<h2>Featured during Makayla's therapy!</h2>
+		<p>If you have any questions or you are the real zodiac killer, please email me at <a href="mailto:notmakaylahull@makaylahull.com">notmakaylahull@makaylahull.com</a>!</p>
+		<div id="post">
+	</body>
+</html>
+
+<!-- This is a joke website made by Makayla's coolest hacker friend, Taylor. -->
+
